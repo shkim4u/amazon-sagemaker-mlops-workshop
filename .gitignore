@@ -1,0 +1,45 @@
+# Mac
+.DS_Store
+
+.idea
+
+# pyCharm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+.idea/**/aws.xml
+
+.idea/**/contentModel.xml
+
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+.idea/amazon-sagemaker-mlops-startup-workshop.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/amazon-sagemaker-mlops-workshop.iml
+
+# Virtualenv
+.venv
+
+# Labs
+labs/0*/data
+labs/0*/model
+labs/**/CaliforniaHousing
+labs/**/*.tgz
+labs/**/*.py
+!labs/**/*.ipynb
+!labs/**/code
+!labs/**/img/*.jpg
+
